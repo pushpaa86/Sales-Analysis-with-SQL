@@ -6,11 +6,13 @@ It demonstrates my ability to write SQL queries, perform joins, and generate mea
 ---
 
 ## 📁 Project Files
-- `awesome-chocolates-data.csv` → Dataset used in this project  
+- `awesome-chocolates-data.sql` → Dataset used in this project  
 - `query1.sql` → Basic exploration queries  
 - `query2.sql` → Aggregate analysis queries  
 - `joins.sql` → Multi-table joins for deeper insights  
 - `outputs/` → CSV exports of query results  
+
+> All CSV files can be opened directly from the `outputs/` folder.
 
 ---
 
@@ -24,29 +26,5 @@ It demonstrates my ability to write SQL queries, perform joins, and generate mea
 ---
 
 ### 🔹 2. `query2.sql`
-- **Goal**: Perform aggregate analysis on chocolate sales.  
-- **Key SQL Concepts**: `SUM`, `AVG`, `COUNT`, `GROUP BY`, `HAVING`.  
-- **Output**: [query2_output.csv](outputs/query2_output.csv)  
-
----
-
-### 🔹 3. `joins.sql`
-- **Goal**: Combine data across multiple tables to gain deeper insights (e.g., customer details + product sales).  
-- **Key SQL Concepts**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`.  
-- **Output**: [joins_output.csv](outputs/joins_output.csv)  
-
----
-
-## 🚀 Learnings
-- Practiced SQL queries from beginner to intermediate  
-- Gained experience with filtering, aggregation, and joins  
-- Exported query results from MySQL Workbench  
-- Learned to structure SQL projects for GitHub portfolios  
-
----
-
-## 🛠 Tools Used
-- MySQL Workbench  
-- Awesome Chocolates Dataset  
-- Excel (optional, for additional visualization)  
+- **Goal**: Perform aggregate analysis on chocolate
 
