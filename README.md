@@ -26,5 +26,23 @@ It demonstrates my ability to write SQL queries, perform joins, and generate mea
 ---
 
 ### 🔹 2. `query2.sql`
-- **Goal**: Perform aggregate analysis on chocolate
+- **Goal**: Perform aggregate analysis on chocolate sales.  
+- **Key SQL Concepts**: `SUM`, `AVG`, `COUNT`, `GROUP BY`, `HAVING`.  
+- **Output**: [query2_output.csv](outputs/query2_output.csv)  
+
+---
+
+### 🔹 3. `joins.sql`
+- **Goal**: Combine data across multiple tables to gain deeper insights (e.g., customer details + product sales).  
+- **Key SQL Concepts**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`.  
+- **Output**: [joins_output.csv](outputs/joins_output.csv)  
+
+---
+
+## 🚀 Learnings
+- Practiced SQL queries from beginner to intermediate  
+- Gained experience with filtering, aggregation, and joins  
+- Exported query results from MySQL Workbench  
+- Learned to structure SQL projects for GitHub portfolios  
+
 
